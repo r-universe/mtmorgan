@@ -1,5 +1,8 @@
 [
   {
+    "package": "cellxgenedp"
+  },
+  {
     "package": "rjsoncons",
     "oncran": true
   }

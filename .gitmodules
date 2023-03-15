@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cellxgenedp"]
+	path = cellxgenedp
+	url = https://github.com/mtmorgan/cellxgenedp
+	shallow = true
+	registered = true
 [submodule "rjsoncons"]
 	path = rjsoncons
 	url = https://github.com/mtmorgan/rjsoncons
