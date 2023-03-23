@@ -3,9 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AnVIL"]
+	path = AnVIL
+	url = https://git.bioconductor.org/packages/AnVIL
+	shallow = true
+	registered = true
+[submodule "AnVILPublish"]
+	path = AnVILPublish
+	url = https://git.bioconductor.org/packages/AnVILPublish
+	shallow = true
+	registered = true
 [submodule "cellxgenedp"]
 	path = cellxgenedp
 	url = https://github.com/mtmorgan/cellxgenedp
+	shallow = true
+	registered = true
+[submodule "RedisParam"]
+	path = RedisParam
+	url = https://git.bioconductor.org/packages/RedisParam
 	shallow = true
 	registered = true
 [submodule "rjsoncons"]
