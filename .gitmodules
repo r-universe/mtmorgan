@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "AnVIL"]
-	path = AnVIL
-	url = https://git.bioconductor.org/packages/AnVIL
-[submodule "AnVILPublish"]
-	path = AnVILPublish
-	url = https://git.bioconductor.org/packages/AnVILPublish
 [submodule "cellxgenedp"]
 	path = cellxgenedp
 	url = https://github.com/mtmorgan/cellxgenedp
