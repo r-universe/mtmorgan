@@ -7,7 +7,7 @@
 	url = https://github.com/mtmorgan/cellxgenedp
 [submodule "RedisParam"]
 	path = RedisParam
-	url = https://git.bioconductor.org/packages/RedisParam
+	url = https://github.com/mtmorgan/redisparam
 [submodule "rjsoncons"]
 	path = rjsoncons
 	url = https://github.com/mtmorgan/rjsoncons
