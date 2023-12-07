@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AlphaMissenseR"]
+	path = AlphaMissenseR
+	url = https://github.com/mtmorgan/alphamissenser
 [submodule "RedisParam"]
 	path = RedisParam
 	url = https://github.com/mtmorgan/redisparam
